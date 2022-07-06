@@ -1,0 +1,42 @@
+html{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: brown;
+}
+
+body{
+    background-color: aqua;
+    width: 900px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    border: 10px solid black;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    margin: 0;
+    padding: 20px 0;
+    color: orange;
+    text-align: center;
+    text-shadow: 5px 5px 2px black ;
+}
+
+ul,li,ol,p{
+    text-align: center;
+    font-size: 15px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+img{
+    width: 600px; 
+    display: block;
+    margin: 0 auto;
+}
+
+div{
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
